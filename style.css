@@ -1,13 +1,19 @@
-body {
-	background: #CCCCCC
+body {  
+	
 }
 
 #banner {
 	width: 100%;
 }
 
-h1 {
-	text-align: center
+.principal{
+	background: #CCCCCC;
+	padding: 30px;
+    
+}
+
+.titulo-centralizado {
+	text-align: center;	
 }
 
 p {
@@ -24,4 +30,22 @@ em strong {
 
 .itens {
 	font-style: italic;
+}
+
+.beneficios {
+	background: #ffffff;
+	padding: 20px;
+}
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+    
+}
+	
+}
+
+.imagenbeneficios{
+	width: 50%;
 }
